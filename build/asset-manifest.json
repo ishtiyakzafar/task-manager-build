@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1703e5e3.css",
+    "main.js": "/static/js/main.f00881d1.js",
+    "static/media/img1.svg": "/static/media/img1.ae4fa36c4cfcd1cdd134dce1f65f3206.svg",
+    "static/media/img5.svg": "/static/media/img5.f7cb853003b3b0c1ad76a0f34a61179a.svg",
+    "static/media/profile.png": "/static/media/profile.0d14c6999b4a5c8e86a7.png",
+    "static/media/email-verify.avif": "/static/media/email-verify.6602a8dcd0aa26e7abab.avif",
+    "static/media/team-check.svg": "/static/media/team-check.c3b6d1fe617bd1ba3c455f9d9bf8f231.svg",
+    "static/media/party-horn.svg": "/static/media/party-horn.7d5c8ab3dde24240c1b053e241b82e5e.svg",
+    "index.html": "/index.html",
+    "static/media/calendar-pen.svg": "/static/media/calendar-pen.62ea0ca12cb607a8eba604fb78e42c4e.svg",
+    "static/media/comment-alt-dots.svg": "/static/media/comment-alt-dots.145aa9ba42070e14869b9c802c800f35.svg",
+    "static/media/calendar-check.svg": "/static/media/calendar-check.7a27c6dc11a0c1453ace717700071fd8.svg",
+    "main.1703e5e3.css.map": "/static/css/main.1703e5e3.css.map",
+    "main.f00881d1.js.map": "/static/js/main.f00881d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1703e5e3.css",
+    "static/js/main.f00881d1.js"
+  ]
+}
